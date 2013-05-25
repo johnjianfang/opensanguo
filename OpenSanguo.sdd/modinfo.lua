@@ -1,9 +1,10 @@
 --http://springrts.com/wiki/Modinfo.lua
 local modinfo = {
-	name = "Open Sanguo Game",
-	shortname = "STG",
-	game = "STG",
+	name = "OpenSanguo",
+	shortname = "OSG",
+	game = "OpenSanguo",
 	shortgame = "STG",
+    mutator			= "Official",
 	description = "Stragey game for Sanguo kingdoms",
 	url = "git@github.com:johnjianfang/spring.git",
 	version = "0.1",

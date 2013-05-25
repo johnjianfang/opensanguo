@@ -1,10 +1,8 @@
---taken out of zero-k
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 --
---  author:  jK
 --
---  Copyright (C) 2007,2008,2009.
+--  Copyright (C) 2013,2014.
 --  Licensed under the terms of the GNU GPL, v2 or later.
 --
 --------------------------------------------------------------------------------
@@ -12,10 +10,10 @@
 
 function widget:GetInfo()
   return {
-    name      = "TutorialGame | HealthBars",
+    name      = "OpenSanguo | HealthBars",
     desc      = "Gives various informations about units in form of bars.",
-    author    = "jK",
-    date      = "2009",
+    author    = "johnjianfang",
+    date      = "2013",
     license   = "GNU GPL, v2 or later",
     layer     = -10,
     enabled   = true  --  loaded by default?
