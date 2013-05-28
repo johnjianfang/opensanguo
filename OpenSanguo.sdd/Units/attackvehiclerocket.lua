@@ -5,7 +5,7 @@ name = "Rocker",
 Description = "fires a rocket",
 objectName = "simpleattackvehicle.s3o",
 script = "simpleattackvehicle.lua",
-buildPic = "placeholder.png",
+buildPic = "attackvehiclerocket.png",
 --cost
 buildCostMetal = 100,
 buildCostEnergy = 0,

@@ -1,11 +1,11 @@
 local unitName = "buildervehicle"
 
 local unitDef = {
-name = "Erector",
+name = "Builder",
 Description = "a crane that builds stuff. has heavy armour that prevents damage from maschine guns (see armordefs.lua)",
 objectName = "buildervehicle.s3o",
 script = "buildervehicle.lua",
-buildPic = "placeholder.png",
+buildPic = "buildfactory.tga",
 --cost
 buildCostMetal = 500,
 buildCostEnergy = 0,
@@ -42,6 +42,8 @@ terraformSpeed = 9001,
 buildoptions = 
 	{
 	"simplefactory",
+    "mines",
+    "farms",
 	},
 
 Category = [[LAND]],

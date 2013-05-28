@@ -5,7 +5,7 @@ name = "Walker",
 Description = "a walker. demonstrates use of threads in unit scripts.",
 objectName = "simplewalker.s3o",
 script = "simplewalker.lua",
-buildPic = "placeholder.png",
+buildPic = "simplewalker.png",
 --cost
 buildCostMetal = 100,
 buildCostEnergy = 100,

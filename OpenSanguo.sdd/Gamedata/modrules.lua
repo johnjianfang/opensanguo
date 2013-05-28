@@ -117,9 +117,9 @@ local modrules  = {
         featureVisibility = 2;
     },
 
-    system = {
+--[[    system = {
         pathFinderSystem = (Spring.GetModOptions() and (Spring.GetModOptions().qtpfs == "1") and 1) or 0,
-    },
+    },]]
 }
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------

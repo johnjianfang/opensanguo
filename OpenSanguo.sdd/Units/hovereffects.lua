@@ -5,7 +5,7 @@ name = "Acid King",
 Description = "emits colored smoke",
 objectName = "simplehover.s3o",
 script = "hovereffects.lua",
-buildPic = "placeholder.png",
+buildPic = "hovereffects.png",
 --cost
 buildCostMetal = 100,
 buildCostEnergy = 0,

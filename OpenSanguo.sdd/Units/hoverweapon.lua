@@ -5,7 +5,7 @@ name = "Swoosh-Boom",
 Description = "most basic weapon script",
 objectName = "simplehover.s3o",
 script = "hoverweapon.lua",
-buildPic = "placeholder.png",
+buildPic = "hoverweapon.png",
 --cost
 buildCostMetal = 100,
 buildCostEnergy = 0,

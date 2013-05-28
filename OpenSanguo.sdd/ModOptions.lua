@@ -11,9 +11,9 @@ local options= {
     desc   = 'Determines amount of metal and metal storage that each player will start with',
     type   = 'number',
     section= 'StartingResources',
-    def    = 100,
+    def    = 1000,
     min    = 0,
-    max    = 1000,
+    max    = 10000,
     step   = 1,  -- quantization is aligned to the def value
                     -- (step <= 0) means that there is no quantization
   },
@@ -23,9 +23,9 @@ local options= {
     desc   = 'Determines amount of energy and energy storage that each player will start with',
     type   = 'number',
     section= 'StartingResources',
-    def    = 250,
+    def    = 2500,
     min    = 0,
-    max    = 1000,
+    max    = 10000,
     step   = 1,  -- quantization is aligned to the def value
                     -- (step <= 0) means that there is no quantization
   },

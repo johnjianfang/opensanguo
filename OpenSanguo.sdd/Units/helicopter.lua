@@ -11,7 +11,7 @@ script              = [[helicopter.lua]],
 bmcode              = [[1]],
 
 builder             = false,
-buildPic            = [[placeholder.png]],
+buildPic            = [[helicopter.png]],
 buildTime           = 10,
 canAttack           = true,
 

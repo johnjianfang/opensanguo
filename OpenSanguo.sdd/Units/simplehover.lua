@@ -5,7 +5,7 @@ name = "Swoosher",
 Description = "a simple, mobile unit. does nothing but drive around.",
 objectName = "simplehover.s3o",
 script = "simplehover.lua",
-buildPic = "placeholder.png",
+buildPic = "simplehover.png",
 --cost
 buildCostMetal = 100,
 buildCostEnergy = 0,

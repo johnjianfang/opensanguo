@@ -7,7 +7,7 @@ local unitDef =
 	ObjectName = "factory.s3o",	
 	TEDClass = "PLANT",
 	script = "simplefactory.lua",
-	buildPic = "placeholder.png",
+	buildPic = "simplefactory.tga",
 -- Unit limitations and properties
 	Description = "a simple factory that builds mobile units",
 	MaxDamage = 1500,
@@ -47,7 +47,6 @@ local unitDef =
 	"attackvehicledoublebarrel",
 	"hovereffects",
 	"simplewalker",
-	"buildervehicle",
 	"helicopter",
 	"attackvehiclerocket",
 	"attackvehiclemultimissile",

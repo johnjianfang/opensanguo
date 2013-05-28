@@ -5,7 +5,7 @@ name = "Boomer",
 Description = "a simple, mobile attack unit. shoots stuff.",
 objectName = "simpleattackvehicle.s3o",
 script = "simpleattackvehicle.lua",
-buildPic = "placeholder.png",
+buildPic = "simpleattackvehicle.png",
 --cost
 buildCostMetal = 100,
 buildCostEnergy = 0,

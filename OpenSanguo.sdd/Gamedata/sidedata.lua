@@ -9,7 +9,7 @@ local sidedata = {
         startunit = 'attackvehicledoublebarrel',
     },]]
     {
-        name = 'Erector',
+        name = 'Builder',
         startunit = 'buildervehicle',
     }
 }
