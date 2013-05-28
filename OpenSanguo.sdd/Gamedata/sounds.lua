@@ -23,6 +23,9 @@ local Sounds = {
 			maxconcurrent = 1, ---how many maximum can we hear?
 		},
 		--- END RESERVED
+        FailedCommand = {
+            file = "sounds/beep3.wav",
+        },
 
 --WEAPONS
 --[[
