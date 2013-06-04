@@ -5,7 +5,7 @@ name = "Boooomer",
 Description = "the turret of this unit has two barrels and alternates firing between them",
 objectName = "attackvehicledoublebarrel.s3o",
 script = "attackvehicledoublebarrel.lua",
-buildPic = "attackvehicledoublebarrel.png",
+buildPic = "attackvehiclerocket.png",
 --cost
 buildCostMetal = 200,
 buildCostEnergy = 0,

@@ -28,6 +28,15 @@ local Sounds = {
         },
 
 --WEAPONS
+        orangeblob_explo = {
+            file = "sounds/Explosi3.wav",
+            rolloff=3, dopplerscale = 0, maxdist = 6000,
+
+
+            priority = 10, --- higher numbers = less chance of cutoff
+            maxconcurrent = 4, ---how many maximum can we hear?
+        },
+
 --[[
 		gclaser2_fire = { 
             file = "sounds/gclaser2_fire.wav", 

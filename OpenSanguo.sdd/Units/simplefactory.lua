@@ -41,15 +41,10 @@ local unitDef =
 	workerTime = 1,
 	buildoptions = 
 	{
-	"simplehover",
-	"hoverweapon",
 	"simpleattackvehicle",
-	"attackvehicledoublebarrel",
-	"hovereffects",
-	"simplewalker",
-	"helicopter",
-	"attackvehiclerocket",
-	"attackvehiclemultimissile",
+    "attackvehiclemultimissile",
+    "attackvehicledoublebarrel",
+        --	"tank",
 	},
 }
 

@@ -5,7 +5,7 @@ name = "Super Rocker",
 Description = "fires a salvo of missiles. scripted with arrays/tables.",
 objectName = "attackvehiclemultimissile.s3o",
 script = "attackvehiclemultimissile.lua",
-buildPic = "attackvehiclemultimissle.png",
+buildPic = "tank.png",
 --cost
 buildCostMetal = 100,
 buildCostEnergy = 0,

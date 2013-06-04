@@ -2,9 +2,9 @@ local   resources = {
       graphics = {
          -- Spring Defaults
          groundfx = {
-            groundflash   = 'groundflash.tga',
-            groundring   = 'groundring.tga',
-            seismic      = 'circles.tga',
+            groundflash   = 'effects/groundflash.tga',
+            groundring   = 'effects/groundring.tga',
+            seismic      = 'effects/circles.tga',
          },
          projectiletextures = {
             circularthingy      = 'circularthingy.tga',
@@ -16,8 +16,9 @@ local   resources = {
             flare            = 'flare.tga',
             explo            = 'explo.tga',
             explofade         = 'explofade.tga',
+            explodeheat  =  'effects/explodeheat.tga',
             heatcloud         = 'explo.tga',
-            flame            = 'flame.tga',
+            flame            = 'effects/flame.tga',
             --muzzleside         = 'muzzleside.tga',
             --muzzlefront         = 'muzzlefront.tga',
             largebeam         = 'largelaserfalloff.tga',

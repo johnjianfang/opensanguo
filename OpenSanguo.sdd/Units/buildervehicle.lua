@@ -42,8 +42,9 @@ terraformSpeed = 9001,
 buildoptions = 
 	{
 	"simplefactory",
-    "mines",
-    "farms",
+    "tc_shade",
+--    "mines",
+--    "farms",
 	},
 
 Category = [[LAND]],
