@@ -1,9 +1,19 @@
 local armorDefs = {
-heavyarmor = {
-	"simplefactory",
-	"buildervehicle",
-},
+    heavyarmor = {
+        "simplefactory",
+        "buildervehicle",
+    },
 
+    flyer = {
+    },
+
+    light = {
+        "tc_shade",
+    },
+
+    heavy = {
+        "euf_paladin",
+    },
 }
 
 for categoryName, categoryTable in pairs(armorDefs) do
@@ -13,5 +23,7 @@ for categoryName, categoryTable in pairs(armorDefs) do
   end
   armorDefs[categoryName] = t
 end
+
+local system = VFS.Include('gamedata/system.lua')
 
 return armorDefs

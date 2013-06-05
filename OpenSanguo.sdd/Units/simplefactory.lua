@@ -41,9 +41,11 @@ local unitDef =
 	workerTime = 1,
 	buildoptions = 
 	{
-	"simpleattackvehicle",
-    "attackvehiclemultimissile",
-    "attackvehicledoublebarrel",
+    "tc_shade",
+    "euf_paladin",
+--	"simpleattackvehicle",
+--    "attackvehiclemultimissile",
+--    "attackvehicledoublebarrel",
         --	"tank",
 	},
 }

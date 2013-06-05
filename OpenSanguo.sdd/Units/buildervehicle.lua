@@ -42,7 +42,6 @@ terraformSpeed = 9001,
 buildoptions = 
 	{
 	"simplefactory",
-    "tc_shade",
 --    "mines",
 --    "farms",
 	},
