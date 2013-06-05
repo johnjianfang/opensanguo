@@ -43,6 +43,7 @@ local unitDef =
 	{
     "tc_shade",
     "euf_paladin",
+    "horseman",
 --	"simpleattackvehicle",
 --    "attackvehiclemultimissile",
 --    "attackvehicledoublebarrel",
